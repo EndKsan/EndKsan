@@ -2,6 +2,9 @@
 
 <h2 style="color: #DAA520;">Desenvolvedor FullStack</h2>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2c5d7937-aee0-4382-aefb-d02a853a0941" width="300px" />
+</div>
 
 
 <br>
