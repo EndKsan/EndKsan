@@ -1,9 +1,11 @@
-# 👩🏻‍💻 EndKsan
+
 
 <h2 style="color: #DAA520;">Desenvolvedor FullStack</h2>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2c5d7937-aee0-4382-aefb-d02a853a0941" width="300px" />
+<img src="https://github.com/user-attachments/assets/4b8f065f-1d33-4d04-92a7-5c59934ea35f" width="600px"/>
+
+
 </div>
 
 
