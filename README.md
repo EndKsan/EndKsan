@@ -17,14 +17,9 @@
 
 <h3 style="color: #FFD700;">📚Transformando desafios em aprendizado</h3>
 
-
 <br>
 
-<h3 style="color: #FFD700;">🚀 Sempre em busca do próximo nível</h3>
-
-<h3 style="color: #FFD700;">💡A cada código que escrevo, um passo mais perto da excelência.</h3>
-
-<h3 style="color: #FFD700;">📚Transformando desafios em aprendizado</h3>
+![Image](https://github.com/user-attachments/assets/a486dfc4-1c67-439f-82b7-96fbf9d74ba7)
 
 <strong>
   <p style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; text-align: justify;">
@@ -36,6 +31,8 @@
   </p>
 </strong>
 
+
+
 <p align="left">
   <a href="https://www.instagram.com/end_ksan/">
     <img 
@@ -46,7 +43,7 @@
   </a>
 </p>
 
----
+![Image](https://github.com/user-attachments/assets/a486dfc4-1c67-439f-82b7-96fbf9d74ba7)
 
 ### 🤖 Linguagens e Tecnologias
 
