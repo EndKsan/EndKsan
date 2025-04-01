@@ -5,7 +5,7 @@
 <a href="https://im.ge/i/363818671-18283504078133811-8068571488241351833-n.pNpOUW">
   <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <img 
-      src="https://i.im.ge/2025/04/01/pNpOUW.363818671-18283504078133811-8068571488241351833-n.jpeg" 
+      src="[https://i.im.ge/2025/04/01/pNpOUW.363818671-18283504078133811-8068571488241351833-n.jpeg](https://im.ge/i/ChatGPT-Image-1-de-abr-de-2025-06-39-07.pN4gEW)" 
       alt="EndKsan" 
       style="border: 3px solid black; 
              width: 350px; 
