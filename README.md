@@ -2,18 +2,16 @@
 
 <h2 style="color: #DAA520;">Desenvolvedor FullStack</h2>
 
-<a href="https://im.ge/i/363818671-18283504078133811-8068571488241351833-n.pNpOUW">
-  <p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img 
-      src="[https://i.im.ge/2025/04/01/pNpOUW.363818671-18283504078133811-8068571488241351833-n.jpeg](https://im.ge/i/ChatGPT-Image-1-de-abr-de-2025-06-39-07.pN4gEW)" 
-      alt="EndKsan" 
-      style="border: 3px solid black; 
-             width: 350px; 
-             height: auto; 
-             border-radius: 10px; 
-            ">
-  </p>
-</a>
+
+
+<br>
+
+<h3 style="color: #FFD700;">🚀 Sempre em busca do próximo nível</h3>
+
+<h3 style="color: #FFD700;">💡A cada código que escrevo, um passo mais perto da excelência.</h3>
+
+<h3 style="color: #FFD700;">📚Transformando desafios em aprendizado</h3>
+
 
 <br>
 
