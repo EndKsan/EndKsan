@@ -34,7 +34,7 @@
 <h2 style="color: #DAA520;">🐾 Meus Fiéis Companheiros</h2>
 
 <div align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/cat-face_1f431.png" width="60px" />
+  
   <h3 style="color: #FFD700;">Conheça os mestres felinos que dominam meu ambiente de desenvolvimento</h3>
 </div>
 
