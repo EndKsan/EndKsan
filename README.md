@@ -31,23 +31,6 @@
   </p>
 </strong>
 
-<h2 style="color: #DAA520;">🐾 Meus Fiéis Companheiros</h2>
-
-<div align="center">
-  
-  <h3 style="color: #FFD700;">Conheça os mestres felinos que dominam meu ambiente de desenvolvimento</h3>
-</div>
-
-<br>
-
-<ul style="font-size: 18px; line-height: 1.8; text-align: left; color: #fff;">
-  <li>🐱 <strong style="color: #DAA520;">Nescau</strong> – O chefão da casa, sempre com aquele olhar de quem já viu muito bug por aí.</li>
-  <li>🐱 <strong style="color: #DAA520;">Toddy</strong> – Irmão gêmeo do Nescau, mais de boas, mas pronto pra sonecas entre compilações.</li>
-  <li>🐱 <strong style="color: #DAA520;">Murisquinho</strong> – Pequeno, veloz, e vive andando em cima do teclado no meio do deploy.</li>
-  <li>🐱 <strong style="color: #DAA520;">Zero</strong> – O misterioso. Está sempre perto, mas você nunca sabe se vai te amar ou destruir seu mouse.</li>
-</ul>
-
-
 <p align="left">
   <a href="https://www.instagram.com/end_ksan/">
     <img 
